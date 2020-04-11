@@ -1,0 +1,12 @@
+body {
+    font-size: 18px;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+hr {
+    border-top: 10px dotted rgb(204, 204, 204);
+    width: 5%;
+}
