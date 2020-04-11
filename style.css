@@ -12,3 +12,15 @@
         width: 5%;
     }
 }
+
+@media only screen and (max-width:480px) {
+    body {
+        font-size: 22px;
+    }
+}
+
+@media only screen and (max-width:200px) {
+    body {
+        font-size: 25px;
+    }
+}
